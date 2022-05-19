@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardoHenriquezQG / Eduardo Henriquez Quintana Gurt a meteorologist from Perú.
-- 👀 I’m interested in Shiny Dashboard, modeling and predicting using ML and more.
+- 👀 I’m interested in R Shiny Dashboard, modeling and predicting using ML and more.
 - 📫 How to reach me: eduardohenriquez512@gmail.com
 
 <!---
